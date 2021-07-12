@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="Letmeask" src="./cover.svg" />
+    <img alt="Letmeask" src="https://github.com/PedroHConrado/nlw-together-letmeask/tree/main/.github/logo.svg" />
 </h1>
 
 <br>
